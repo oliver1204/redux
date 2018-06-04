@@ -1,2 +1,2 @@
 # redux
-学习react的相关知识。
+学习redux的相关知识。
